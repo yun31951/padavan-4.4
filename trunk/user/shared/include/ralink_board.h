@@ -1,11 +1,11 @@
-/* K2P */
+/* RM2100 */
 
-#define BOARD_PID		"K2P"
-#define BOARD_NAME		"K2P"
-#define BOARD_DESC		"PHICOMM K2P Wireless Router"
-#define BOARD_VENDOR_NAME	"PHICOMM"
-#define BOARD_VENDOR_URL	"http://www.phicomm.com/"
-#define BOARD_MODEL_URL		"http://www.phicomm.com/"
+#define BOARD_PID		"RM2100"
+#define BOARD_NAME		"RM2100"
+#define BOARD_DESC		"RM2100 Wireless Router"
+#define BOARD_VENDOR_NAME	"MI"
+#define BOARD_VENDOR_URL	"http://www.mi.com/"
+#define BOARD_MODEL_URL		"http://www.mi.com/"
 #define BOARD_BOOT_TIME		30
 #define BOARD_FLASH_TIME	120
 
